@@ -7,7 +7,9 @@ python-dotenv
 langchain-community
 langchain-openai
 langchain-chroma
+langchain-huggingface
 transformers
 gradio
 notebook
 ipywidgets
+nbstripout
